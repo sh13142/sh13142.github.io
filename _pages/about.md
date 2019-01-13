@@ -5,7 +5,7 @@ author_profile: true
 permalink: /about/
 ---
 
-Some information about you!
+NHN Ent. 토스트 6기 루키
 
 ### Contact me
 
