@@ -9,4 +9,4 @@ Some information about you!
 
 ### Contact me
 
-[lee.sohee@nhnent.com](mailto:lee.sohee@nhnent.com)
+[no.sohee@nhnent.com](mailto:lee.sohee@nhnent.com)
