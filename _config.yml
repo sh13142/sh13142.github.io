@@ -20,8 +20,8 @@ title                    : "sh13142.github.io"
 title_separator          : "-"
 name                     : "Lee Sohee"
 description              : "Hello, jekyll!"
-url                      : "https://sh13142.github.io"
-baseurl                  : "/blog"
+url                      :
+baseurl                  :
 repository               : "sh13142/sh13142.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
