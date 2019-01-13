@@ -1,10 +1,9 @@
 # main links
 main:
-  # - title: "About"
-  #   url: https://sh13142.github.io/about/
-  - title: "Posts"
-    url: /docs/_posts/
+  - title: "About"
+    url: /about/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  
