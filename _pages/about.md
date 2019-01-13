@@ -5,8 +5,8 @@ author_profile: true
 permalink: /about/
 ---
 
-> NHN Ent. 토스트 루키 6기  
-> 루키행복TF 이소희
+NHN Ent. 토스트 루키 6기  
+루키행복TF 이소희
 
 ### Contact me
 
